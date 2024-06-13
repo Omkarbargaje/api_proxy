@@ -1,0 +1,26 @@
+{
+  "name": "api_proxy",
+  "version": "1.0.0",
+  "description": "temp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omkarbargaje/api_proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "2.40.0",
+    "tokenthrottle": "1.1.0",
+    "public-address": "^0.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Omkarbargaje/api_proxy/issues"
+  },
+  "homepage": "https://github.com/Omkarbargaje/api_proxy#readme"
+}
